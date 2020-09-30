@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Titan!
+          Learn React with Lazygrid!
         </a>
       </header>
     </div>

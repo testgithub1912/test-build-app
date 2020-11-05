@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Lazygrid in PRODUCTION!!
+          Learn React with Lazygrid in PRODUCTION!
         </a>
       </header>
     </div>
